@@ -1,5 +1,5 @@
 discord.py==1.4.1
-boardgamegeek2==1.0.1
+boardgamegeek2==1.0.0
 google-api-python-client==1.7.8
 python-dotenv==0.10.1
 dnspython==1.16.0
