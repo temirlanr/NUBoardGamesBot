@@ -1,5 +1,5 @@
 discord.py==1.4.1
-requests-cache==0.8.1
+requests-cache==0.4.4
 boardgamegeek2==1.0.0
 google-api-python-client==1.7.8
 python-dotenv==0.10.1
