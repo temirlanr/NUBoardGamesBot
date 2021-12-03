@@ -1,40 +1,4 @@
-# BoardGameBot
-
-This is the repository for a board game Discord bot
- [![Python 3.6.7](https://img.shields.io/badge/python-3.6.7-blue.svg)](https://www.python.org/downloads/release/python-360/)  ![GitHub repo size](https://img.shields.io/github/repo-size/matta174/boardgamebot.svg)    ![Discord](https://img.shields.io/discord/288694246721191947.svg)   ![GitHub issues](https://img.shields.io/github/issues-raw/matta174/boardgamebot.svg)
-[![CodeFactor](https://www.codefactor.io/repository/github/matta174/boardgamebot/badge)](https://www.codefactor.io/repository/github/matta174/boardgamebot)
-
-BoardGameBot is a bot that can be used to quickly lookup information about board games as well as get how to play videos and much more.
-
-## Prerequisites
-
-### What items to install
-
-discord - [link](https://github.com/Rapptz/discord.py)
-
-boardgamegeek - [link](https://github.com/lcosmin/boardgamegeek)
-
-Google APIs Client Library for Python - [link](https://developers.google.com/api-client-library/python/start/installation)
-
-#### How to install them
-
->pip install -U discord.py
->pip install boardgamegeek2
->pip install google-api-python-client
->pip install python-env
->pip install psycopg2
-
-### Using the bot
-
-* Create a new Discord Application [here](https://discordapp.com/developers/applications/)
-
-* After creating the app on the app details page scroll down to the Bot page and create a bot.
-
-* Save the token for the bot
-
-* Go to this url https://discordapp.com/oauth2/authorize?client_id=XXXXXXXXXXXX&scope=bot and replace the client id with your app's client ID and authorize your app
-
-* replace the token in main.py with your token and run
+# Taken from https://github.com/matta174/BoardGameBot
 
 ### Commands
 
